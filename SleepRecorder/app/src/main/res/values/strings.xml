@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SleepRecorder</string>
+    <string name="inicio">Inicio</string>
+    <string name="volver_atr_s">Volver atrás</string>
+    <string name="decibelios_muyAlta">%1$s DECIBELIOS. SENSIBILIDAD MUY ALTA</string>
+    <string name="decibelios_alta">%1$s DECIBELIOS. SENSIBILIDAD ALTA</string>
+    <string name="decibelios_normal">%1$s DECIBELIOS. SENSIBILIDAD NORMAL</string>
+    <string name="decibelios_baja">%1$s DECIBELIOS. SENSIBILIDAD BAJA</string>
+    <string name="decibelios_muyBaja">%1$s DECIBELIOS. SENSIBILIDAD MUY BAJA</string>
+    <string name="instrucciones">Selecciona a partir de cuantos decibelios quieres empezar a grabar. Si aumenta la sensibilidad captará sonidos más bajos. Si aumenta la sensibilidad los sonidos más bajos se ignorarán.</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="prueba_de_decibelios">PRUEBA DE DECIBELIOS</string>
+    <string name="probar">PROBAR</string>
+    <string name="seleccionar_hora_de_inicio">SELECCIONAR HORA DE INICIO</string>
+    <string name="lista_de_audios">Lista de audios</string>
+    <string name="ajustes">AJUSTES</string>
+    <string name="audios">AUDIOS</string>
+    <string name="empezar_a_grabar">¿En cúanto tiempo quieres empezar a grabar?</string>
+    <string name="hora_de_terminar">¿A qué hora quieres terminar la grabación?</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="aviso">AVISO</string>
+    <string name="grabacion">GRABACION</string>
+    <string name="seleccionar_hora_de_fin">SELECCIONAR HORA DE FIN</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
