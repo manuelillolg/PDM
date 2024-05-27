@@ -1,0 +1,49 @@
+{
+  "containers": [
+    {
+      "name": "Frigorifico",
+      "sections": [
+        {
+          "name": "Cajón de la fruta",
+          "foods": []
+        },
+        {
+          "name": "Cajón de la verdura",
+          "foods": []
+        },
+        {
+          "name": "Frigo general",
+          "foods": []
+        }
+      ]
+    },
+    {
+      "name": "Congelador",
+      "sections": [
+        {
+          "name": "Cajón 1",
+          "foods": []
+        },
+        {
+          "name": "Cajón 2",
+          "foods": []
+        },
+        {
+          "name": "Cajón 3",
+          "foods": []
+        }
+      ]
+    }
+  ],
+  "foodNameList": [
+    "Lechuga",
+    "Tomate",
+    "Manzana",
+    "Pollo"
+  ],
+  "categoryList": [
+    "Verdura",
+    "Fruta",
+    "Carne"
+  ]
+}

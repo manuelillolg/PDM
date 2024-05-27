@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Baywatch</string>
+    <string name="inicio">INICIO</string>
+    <string name="informaci_n_actual">INFORMACIÓN ACTUAL</string>
+    <string name="historial_de_informaci_n_del_d_a">HISTORIAL DE INFORMACIÓN DEL DÍA</string>
+    <string name="title_activity_baywatch_worker">BaywatchWorker</string>
+    <string name="mis_playas">MIS PLAYAS</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

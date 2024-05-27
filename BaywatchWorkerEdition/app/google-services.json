@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "715029775045",
+    "project_id": "baywatch-1e16d",
+    "storage_bucket": "baywatch-1e16d.appspot.com"
+  },
+  "client": [
+
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715029775045:android:9af52108a1d0f52653a6ac",
+        "android_client_info": {
+          "package_name": "com.example.baywatchworkeredition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzBaEJZhpxWqWg1Y8VIxE9-huOLY2-_f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
